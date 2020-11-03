@@ -11,6 +11,8 @@ autopep8 = "*"
 django = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
+graphene-django = "*"
+pylint-django = "*"
 
 [requires]
 python_version = "3.7"
